@@ -6,7 +6,6 @@ export default function Home() {
       <p className="text-green-500 text-3xl font-bold"
       >Lingo App</p>
       <Button variant={"destructive"} size={"lg"}>My Button</Button>
-
     </>
   );
 }
